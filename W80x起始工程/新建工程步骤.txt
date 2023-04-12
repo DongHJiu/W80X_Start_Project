@@ -1,0 +1,14 @@
+
+编程软件使用的是：剑池CDK
+程序下载使用的是：串口下载->Upgrade_Tools
+
+进入这个文件夹：W801(806)_SDK\WM_SDK_W806\tools\W806\projects\SDK_Project\project\CDK_WS
+打开此文件夹的这个工程：CDK_WS.cdkws
+打开工程后点击 project->Build Active Project 进行编译
+打开Upgrade_Tools串口下载软件
+进入这个文件夹：W801(806)_SDK\WM_SDK_W806\bin\W806
+里面有个后缀是.fls的文件，用Upgrade_Tools串口下载软件下载这个文件即可
+
+
+新建工程：https://blog.csdn.net/TOMLIEE/article/details/122150785
+深入拓展：https://blog.csdn.net/michaelchain/article/details/121620029
